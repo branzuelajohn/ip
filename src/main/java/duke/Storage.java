@@ -47,7 +47,7 @@ public class Storage {
 
                     switch (typeTask) {
                     case "T":
-                        assert (dataArr.length > 3) : "Tasks are being saved incorrectly";
+                        assert (dataArr.length > 3) : "Todo Tasks are being saved incorrectly";
                         ToDo td = new ToDo(dataArr[2]);
                         if (dataArr[1].equals("1")) {
                             td.markAsDone();
