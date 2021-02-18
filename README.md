@@ -5,7 +5,7 @@ Welcome to Juke's user guide. This is a comprehensive user guide to teach you ho
 Juke is a command-line based Task Manager application. A user will type a series of command to instruct Juke.
 
 ## User Interface
-![UI](Ui.png)
+![UI](docs/Ui.png)
 
 ## Content Page
 Here is an overview of the commands that Juke supports and a user can input.
