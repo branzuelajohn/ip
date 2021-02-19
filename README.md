@@ -117,6 +117,7 @@ Now you have XX tasks in the list.
 * Example: `bye`
 
 
-
+## Acknowledgements
+Profile picture of User and Juke obtained from [pngtree](www.pngtree.com)
 
 
